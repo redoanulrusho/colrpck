@@ -2,7 +2,7 @@ import streamlit as st
 
 # Streamlit page setup
 st.set_page_config(page_title="Color Picker", page_icon="🎨")
-st.title("🎨 Color Picker (Streamlit Version)")
+st.title("🎨 Color Picker (Streamlit Version) by RUSHO")
 
 # Switch (like your s1 trackbar)
 switch = st.radio("Switch", ["OFF", "ON"])
